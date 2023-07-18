@@ -1,3 +1,3 @@
-module github.com/marekm4/color-extractor
+module github.com/pboyd/color-extractor
 
 go 1.13
